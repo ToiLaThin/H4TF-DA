@@ -1,0 +1,5 @@
+OrderStatusKey,OrderStatusName
+1,Delivered
+2,Shipped
+3,Cancelled
+4,In Transit
